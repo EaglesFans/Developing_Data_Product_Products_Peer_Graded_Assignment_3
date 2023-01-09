@@ -11,4 +11,4 @@ Does the web page feature a date and is this date less than two months before th
 Is the web page a presentation and does it feature an interactive plot that appears to have been created with Plotly?
 
 ### Example Submission
-Here's an extremely minimal passing example, but we hope your submission is much cooler!
+[Here](https://seankross.neocities.org/week3#1)'s an extremely minimal passing example, but we hope your submission is much cooler!
